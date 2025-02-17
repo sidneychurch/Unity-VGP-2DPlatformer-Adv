@@ -1,30 +1,28 @@
 # Title Screen
 ---
+Typically, every game would have a start screen / main menu / title screen. We're going to look at how to create one,
+which also shows how to load scenes and attach functions to buttons.
 
-If you haven't already, rename the default scene from SampleScene to something like LevelOne
+___
 
-Right-click, Create > Scene > Scene
+
+* If you haven't already, rename the default scene from SampleScene to something like LevelOne.
+* Then, Right-click, Create > Scene > Scene
 
 ![img.png](img.png)
 
-Name the new scene something like StartScreen
-
-Double-click StartScreen to load it.
-
-Add a UI Legacy Button
-Rename it to PlayBtn and make the text on the button say Play
-
-Do the same thing for two more buttons, but make them About and Quit
-
-Create an empty object called Buttons and place the buttons inside
-
-Arrange the buttons so that they align vertically.
+* Name the new scene something like StartScreen 
+* Double-click StartScreen to load it. 
+* Add a UI Legacy Button 
+* Rename it to PlayBtn and make the text on the button say Play 
+* Do the same thing for two more buttons, but make them About and Quit 
+* Create an empty object called Buttons and place the buttons inside 
+* Arrange the buttons so that they align vertically.
 
 ![img_1.png](img_1.png)
 
-Create a new script in the Scripts folder and name it StartBtns
-
-Open it
+* Create a new script in the Scripts folder and name it StartBtns 
+* Open it
 
 First let's look at how we can load a scene.
 

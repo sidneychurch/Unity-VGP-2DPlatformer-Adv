@@ -1,6 +1,6 @@
 # Make Some Noise
 ---
-An integral part of every game is sound.
+An integral part of every game is sound. It can set the tone of the entire game
 
 ## Background Music
 ---
