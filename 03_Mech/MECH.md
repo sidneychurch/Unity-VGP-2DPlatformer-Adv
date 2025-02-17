@@ -76,3 +76,6 @@ Then in start, we'll change it so that when the player trigger OnDamage we subtr
 Then see the results:
 
 ![pickup2.gif](pickup2.gif)
+
+---
+>Prev: [Make Some Noise](/02_Sound/SOUND.md)

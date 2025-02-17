@@ -154,3 +154,5 @@ Now I'm going to add another panel for a background, some images (which are usin
 
 ![img_23.png](img_23.png)
 
+---
+>Next: [Make Some Noise](/02_Sound/SOUND.md)

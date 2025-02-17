@@ -50,3 +50,5 @@ Back in the Player object, fill in the references:
 
 ![img_7.png](img_7.png)
 
+---
+>Prev: [Start Screen](/01_Start/START.md) | Next: [Some Common Platformer Mechanics](/03_Mech/MECH.md)
