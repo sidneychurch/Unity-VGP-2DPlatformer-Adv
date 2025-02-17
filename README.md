@@ -1,5 +1,10 @@
-# Video Game Prototyping With Unity - _2D Platformer_
+# Video Game Prototyping With Unity - _2D Platformer Additions_
 ***
+>[!NOTE]
+>This guide builds directly off the previous platformer guide, [found here](https://github.com/sidneychurch/Unity-VGP-2DPlatformer).
+
+Here I will provide some examples on ways to enhance your platformer, but these examples can also apply to any 2D project.
+
 
 
 >[!TIP]
